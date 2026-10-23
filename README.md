@@ -1,6 +1,6 @@
 # ai-daily
 
-Hugging Face + GitHub 每日 AI 领域动态汇总 · 前端 → AI Agent 转型方向情报
+Hugging Face + GitHub 每日 AI 领域动态汇总
 
 ---
 
@@ -22,10 +22,9 @@ Hugging Face + GitHub 每日 AI 领域动态汇总 · 前端 → AI Agent 转型
 
 ## 内容分类
 
-- **【Hugging Face 每日精选】** — 模型 / 论文 / 开源项目 / 社区讨论
+- **【Hugging Face 每日精选】** — 模型 / 论文 / 开源项目（含 GitHub 热榜）/ 社区讨论
 - **【arXiv 精选】** — cs.AI / cs.CL 当日新提交中与 Agent / 工具调用 / 记忆 / 推理控制最相关的条目
-- **【前端 → AI Agent 转型方向】** — 框架 / 工具链 / 学习资源 / 实践案例
-- **今日值得深入** — 1–2 条转型学习重点参考
+- **今日值得深入** — 1–2 条学习重点参考
 
 ## 信息来源
 
