@@ -1,6 +1,6 @@
 # ai-daily
 
-Hugging Face 每日 AI 领域动态汇总 · 前端 → AI Agent 转型方向情报
+Hugging Face + GitHub 每日 AI 领域动态汇总 · 前端 → AI Agent 转型方向情报
 
 ---
 
@@ -30,6 +30,7 @@ Hugging Face 每日 AI 领域动态汇总 · 前端 → AI Agent 转型方向情
 ## 信息来源
 
 - [Hugging Face 首页](https://huggingface.co) · [Daily Papers](https://huggingface.co/papers)
+- [GitHub Trending](https://github.com/trending) 每日热榜（AI / Agent 开源项目，2026-10-23 起加入）
 - [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) · [arXiv cs.CL](https://arxiv.org/list/cs.CL/recent) 当日新提交
 - WebSearch：近 24h HF 新模型 / Spaces / Datasets / 社区动态
 - WebSearch：AI Agent 框架（Vercel AI SDK、LangGraph.js、Mastra、Dify、ComfyUI、n8n 等）最新内容
